@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Shadows in Protoplanetary Discs
+description: Masters Thesis on Radiative Transfer in Protoplanetary Discs
 img: assets/img/12.jpg
 importance: 1
 category: work
