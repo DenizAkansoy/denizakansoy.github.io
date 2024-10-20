@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Test 123. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm Deniz, a recent MSci Physics graduate from Imperial College London [Imperial College London](http://www.imperial.ac.uk), currently doing an MPhil in [Data Intensive Science]([http://reddit.com](https://mphildis.bigdata.cam.ac.uk/)) at the University of Cambridge. I'm passionate about astrophysics, and particularly about protoplanetary discs, formation processes and the search of habitable conditions elsewhere in the universe.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My masters thesis was on radiative transfer in protoplanetary discs, particularly on determining whether proto-companions can cast detectable shadows on the outer disc, which we investigated using radmc3D simulations. More information on this work can be would in the [Imperial College London](https://denizakansoy.github.io/projects/) section.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current MPhil programme in Data Intensive Science is focused on the applocations of statistical methods, high performance computing and machine learning to physical problems, with specific applications to cosmology, gravitational waves and radioastronomy.
+
+The easiest way to reach me is via email (da619 [at] cam.ac.uk) or using any of the socials listed below :)
