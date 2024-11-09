@@ -3,4 +3,4 @@ permalink: /fun/
 title: "Fun"
 ---
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1PY_6AWsyMjLXWw2Z45PMKW5YpCgbOlMY/preview" width="640" height="480" allow="autoplay"></iframe>
