@@ -2,6 +2,10 @@
 layout: single
 author_profile: true
 title: "Hello There!"
+header:
+  overlay_image: /assets/images/disc.jpeg
+  overlay_filter: 0.5  # Optional: adds an overlay filter to the image
+  caption: "Credits: NASA, AURA/STScI for ESA, Leah Hustak"
 ---
 
 I’m Deniz, a recent MSci Physics graduate from Imperial College London and now an MPhil student in Data Intensive Science at the University of Cambridge.
