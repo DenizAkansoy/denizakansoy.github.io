@@ -64,8 +64,8 @@ author:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
     - label: "E-Mail"
-      icon: "fab fa-fw fa-envelope"
-      url: "da619@cam.ac.uk"
+      icon: "fas fa-envelope"
+      url: "mailto:da619@cam.ac.uk"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/denizakansoy/"
@@ -82,8 +82,8 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "da619@cam.ac.uk"
+      icon: "fas fa-envelope"
+      url: "mailto:da619@cam.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DenizAkansoy"
