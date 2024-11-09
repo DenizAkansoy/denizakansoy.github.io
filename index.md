@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: false
+title: ""
 header:
   overlay_image: /assets/images/disc.jpeg
   caption: "Credits: [NASA, AURA/STScI for ESA, Leah Hustak](https://science.nasa.gov/image-detail/hubble-twhydrae-shadow-illustration-stsci-01gysy8vkfq5q3f7xmydpzdx10/)"
