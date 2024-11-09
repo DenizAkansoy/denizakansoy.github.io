@@ -1,10 +1,9 @@
 ---
 layout: single
 author_profile: true
-title: false
+title: "Hello There!"
 ---
 
-### Hello There!
 I’m Deniz, a recent MSci Physics graduate from Imperial College London and now an MPhil student in Data Intensive Science at the University of Cambridge.
 
 **Research Interests**
