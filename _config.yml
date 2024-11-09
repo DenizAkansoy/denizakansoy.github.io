@@ -16,7 +16,7 @@
 title: Deniz Akansoy
 email: da619@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  MSci Physics graduate, currently undertaking an MPhil in Data Intensive Science at the University of Cambridge. 
+  MSci Physics graduate, currently doing an MPhil in Data Intensive Science at the University of Cambridge. 
 twitter_username: denizakansoy
 github_username: denizakansoy
 minimal_mistakes_skin: contrast
@@ -63,15 +63,18 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DenizAkansoy"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/denizakansoy/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DenizAkansoy"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0006-3784-3177"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/DenizAkansoy"
 
 footer:
   links:
@@ -84,6 +87,9 @@ footer:
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0006-3784-3177"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/denizakansoy/"
 
 defaults:
   # _posts
