@@ -7,7 +7,7 @@ header:
   caption: "Credits: [NASA, AURA/STScI for ESA, Leah Hustak](https://science.nasa.gov/image-detail/hubble-twhydrae-shadow-illustration-stsci-01gysy8vkfq5q3f7xmydpzdx10/)"
 ---
 
-## Hello There!
+**Hello There!**
 
 I’m Deniz, a recent MSci Physics graduate from Imperial College London and now an MPhil student in Data Intensive Science at the University of Cambridge.
 
