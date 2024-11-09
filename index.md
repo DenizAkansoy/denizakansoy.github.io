@@ -4,7 +4,6 @@ author_profile: true
 title: ""
 ---
 
-<div style="font-size: 0.9em;">
 ### Hello There!
 I’m Deniz, a recent MSci Physics graduate from Imperial College London and now an MPhil student in Data Intensive Science at the University of Cambridge.
 
@@ -18,4 +17,4 @@ For my master’s thesis at Imperial, I explored radiative transfer in protoplan
 At Cambridge, my MPhil work centers on applying statistical methods, high-performance computing, and machine learning to astrophysical questions.
 
 Feel free to reach out using any of the links provided on the sidebar!
-</div>
+
