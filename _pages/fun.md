@@ -20,6 +20,10 @@ gallery:
     image_path: /assets/images/photography/morocco.jpg
     alt: " "
     title: "Shadows"
+  - url: /assets/images/photography/morocco5.jpg
+    image_path: /assets/images/photography/morocco5.jpg
+    alt: " "
+    title: "Journey"
   - url: /assets/images/photography/london.jpg
     image_path: /assets/images/photography/london.jpg
     alt: " "
