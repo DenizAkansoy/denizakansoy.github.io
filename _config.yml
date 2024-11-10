@@ -63,7 +63,7 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "E-Mail"
+    - label: "da619@cam.ac.uk"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:da619@cam.ac.uk"
     - label: "LinkedIn"
