@@ -4,7 +4,7 @@ permalink: /research/
 layout: single
 ---
 
-## Research Projects
+## Projects
 
 <style>
   .projects-grid {
@@ -27,14 +27,14 @@ layout: single
   }
 
   .projects-grid img:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
   }
 </style>
 
 <div class="projects-grid">
   <a href="/research/shadows/">
     <img src="/assets/images/shadows.jpg" alt="Shadows in Discs Thumbnail">
-    <p>Shadows in Discs</p>
+    <p>Shadows in Protoplanetary Discs</p>
   </a>
 
   <a href="/research/dis/">
