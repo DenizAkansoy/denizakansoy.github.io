@@ -1,8 +1,23 @@
 ---
 permalink: /fun/
-title: "Fun"
+title: "Photography"
+
+gallery:
+  - url: /assets/images/profile.jpg
+    image_path: /assets/images/profile.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/profile.jpg
+    image_path: /assets/images/profile.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/profile.jpg
+    image_path: /assets/images/profile.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/profile.jpg
+    image_path: /assets/images/profile.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+
 ---
-
-<iframe src="https://drive.google.com/file/d/1PY_6AWsyMjLXWw2Z45PMKW5YpCgbOlMY/preview" width="640" height="360" allow="autoplay"></iframe>
-
-<iframe src="https://drive.google.com/file/d/1mrku3qf4lFu4q7voXq4qhC3GCKMUElWB/preview" width="640" height="360" allow="autoplay"></iframe>
