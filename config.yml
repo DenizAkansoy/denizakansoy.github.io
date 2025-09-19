@@ -12,21 +12,21 @@ taxonomies:
 
 menu:
     main:
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
+        - name: Books
+          url: books/
+          weight: 5 
         - name: Papers
           url: papers/
           weight: 2
-        # - name: Courses
-        #   url: courses/
-        #   weight: 3
-        # - name: Data
-        #   url: data/
-        #   weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+        - name: Courses
+          url: courses/
+          weight: 3
+        - name: Data
+          url: data/
+          weight: 4 
+        - name: Blog
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 6
 
 params:
     description: "Deniz Akansoy's personal webpage."
@@ -55,25 +55,25 @@ params:
     profileMode:
           enabled: true
           title: Deniz Akansoy
-          subtitle: "I am a PhD student in the [**Astrophysical Fluid Dynamics**](https://www.damtp.cam.ac.uk/research/astro/astrophysics-group) group at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. I am particularly interested in protoplanetary discs and understanding planet-disc interactions. In addition, I created and maintain [**DebrisPy**](https://github.com/denizakansoy/debrispy), an open-source Python package for modeling debris-disc surface density profiles based on eccentricity distributions of particles."
+          subtitle: "I am a PhD student in the Astrophysical Fluid Dynamics group at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. I am particularly interested in protoplanetary discs and understanding planet-disc interactions. In addition, I created and maintain DebrisPy, an open-source Python package for modeling debris-disc surface density profiles based on eccentricity distributions of particles."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            # - name: Data
-            #   url: data/
-            # - name: Books
-            #   url: books/
-            # - name: Courses
-            #   url: courses/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Data
+              url: data/
+            - name: Books
+              url: books/
+            - name: Courses
+              url: courses/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+            - name: Blog
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         # - name: CV
