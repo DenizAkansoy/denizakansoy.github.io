@@ -29,10 +29,10 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Deniz Akansoy's personal webpage."
+    author: Deniz Akansoy
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "September 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -76,28 +76,18 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        # - name: CV
+        #   url: cv.pdf
         - name: Email
           url: mailto:da619@cam.ac.uk
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
           url: https://github.com/denizakansoy
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/denizakansoy/
         - name: Twitter
           url: https://x.com/denizakansoy
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=gotuuAwAAAAJ&hl=en&oi=ao
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Deniz Akansoy"
       icon: favicon.ico
       iconHeight: 18
 
