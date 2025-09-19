@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Deniz Akansoy
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I am a PhD student in the Astrophysical Fluid Dynamics group at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. I am particularly interested in protoplanetary discs and understanding planet-disc interactions. In addition, I created and maintain DebrisPy, an open-source Python package for modeling debris-disc surface density profiles based on eccentricity distributions of particles."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -79,7 +79,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:da619@cam.ac.uk
         - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
@@ -89,13 +89,13 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/denizakansoy
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: Twitter
-          url: https://x.com/pmichaillat
+          url: https://x.com/denizakansoy
         - name: Bluesky
           url: https://bsky.app/profile/pmichaillat.bsky.social
 
