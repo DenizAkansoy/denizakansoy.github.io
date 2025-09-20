@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Deniz Akansoy
-          subtitle: "I am a PhD student in the [Astrophysical Fluid Dynamics](https://www.damtp.cam.ac.uk/research/astro/astrophysics-group) group at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. I am particularly interested in protoplanetary discs, and understanding planet-disc interactions. In addition, I created and maintain DenrisPy, an open-source Python package for modeling debris-disc surface density profiles based on eccentricity distributions of particles."
+          subtitle: "I am a PhD student in the [Astrophysical Fluid Dynamics](https://www.damtp.cam.ac.uk/research/astro/astrophysics-group/) group at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. I am particularly interested in protoplanetary discs, and understanding planet-disc interactions. In addition, I created and maintain DenrisPy, an open-source Python package for modeling debris-disc surface density profiles based on eccentricity distributions of particles."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
