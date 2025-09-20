@@ -12,21 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+      - name: Research
+        url: research/
+        weight: 1
+      - name: Software
+        url: software/
+        weight: 2
+      - name: CV
+        url: cv.pdf
+        weight: 3
 
 params:
     description: "Deniz Akansoy's personal webpage."
@@ -44,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["research","software","cv"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,24 +54,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            # - name: Books
-            #   url: books/
-            # - name: Courses
-            #   url: courses/
-            # - name: Tags
-            #   url: tags/
-            # - name: Archive
-            #   url: archive/
-            # - name: Blog
-            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Research
+              url: research/
+            - name: Software
+              url: software/
+            - name: CV
+              url: cv.pdf
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:da619@cam.ac.uk
         - name: Location
@@ -90,8 +74,6 @@ params:
           url: https://www.linkedin.com/in/denizakansoy
         - name: Twitter
           url: https://x.com/denizakansoy
-        - name: Arxiv
-          url: https://arxiv.org/search/?searchtype=author&query=Akansoy%2C+D
 
     assets:
         disableScrollBarStyle: true
@@ -99,7 +81,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Deniz Akansoy"
       icon: favicon.ico
       iconHeight: 18
 
