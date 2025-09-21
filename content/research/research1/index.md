@@ -6,7 +6,7 @@ author: ["Deniz Akansoy","Helen Petrou","Giulia Ballabio","Anna Penzlin"]
 description: "3D radiative transfer simulations showing how embedded companions can cast detectable shadows, providing an indirect method to constrain companion masses and positions."
 summary: "Using radmc-3d simulations, we demonstrate that companions ≥14 MJup cast detectable shadows in protoplanetary discs for a flared disc. For the studied disc geometry, we derive an empirical scaling between companion mass, orbital distance, and shadow morphology, suggesting shadows may serve as indirect diagnostics of massive companions."
 cover:
-  image: "shadow_temp.png"        
+  image: "shadow_temp.jpeg"        
   alt: "Temperature maps of a disc with a 30 MJup companion at 5 au. Top: face-on view of the dust temperature distribution, illustrated at the mid plane, 3H/r, 4H/r, and 5H/r in each panel, respectively. Bottom: cross-section of the temperature map along a cut at the azimuthal position of the planet."
   relative: true
 editPost:
@@ -35,7 +35,7 @@ We derive an empirical solution describing the width and depth of the shadow as 
 
 ##### Figure: Simulated scattered light image of the PDS 70 system. The white scale bar represents a distance of 20 au.
 
-![](shadow_pds70.png)
+![](shadow_pds70.jpeg)
 
 ---
 
