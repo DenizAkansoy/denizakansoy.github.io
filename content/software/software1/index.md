@@ -39,6 +39,6 @@ Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism
 
 ##### Example Figure
 
-![](debrispy.png)  
+![](debrisdisc.png)  
 
 *A synthetic surface density profile generated with DebrisPy.*  
