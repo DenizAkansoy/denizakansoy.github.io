@@ -37,7 +37,11 @@ Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism
 
 ---
 
-##### Example Figure
+##### Example: Secular Planetary Perturbations
+
+Among many other use cases for DebrisPy is the study of how debris disc surface density changes when undergoing secular dynamical evolution due to a nearby planetary companion. In this case, the evolution of orbital elements are on timescales much longer than the orbital period, hence short-period effects are averaged out. In such cases, the semi-major axis surface density distribution of particles, $\Sigma_a(a)$, remains time invariant, allowing us to compare the evolving sparial structure against a fixed semi-major axis distribution.
+
+In this example, we define a custom $\Sigma_a(a)$ profile, defined over $a \in \[3, 16\]$.
 
 ![](debrisdisc.png)  
 
