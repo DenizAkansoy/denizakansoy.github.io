@@ -21,9 +21,9 @@ cover:
 
 **DebrisPy** is an open-source Python package with the goal of studying the structure and evolution of debris discs. The package implements the analytic formalism introduced by [Rafikov (2023)](https://academic.oup.com/mnras/article/519/4/5607/6845736), which establishes a direct connection between the azimuthally averaged surface density (ASD) of a disc and the underlying distribution of semi-major axes and eccentricities of its constituent particles.  
 
-By working semi-analytically, DebrisPy offers a more efficient and robust alternative to traditional Monte Carlo approaches, while still including Monte Carlo methods for validation. The modular design of the package allows users to explore a wide range of eccentricity distributions and surface density profiles, making it adaptable to different astrophysical contexts.  
+By working semi-analytically, DebrisPy offers a more efficient and robust alternative to traditional Monte Carlo approaches, while still including Monte Carlo methods for validation. The modular design of the package allows users to explore a wide range of eccentricity distributions and surface density profiles, making it adaptable to different astrophysical contexts.
 
-Beyond reproducing the benchmark results of Rafikov (2023), DebrisPy extends the formalism with several new features. These include adaptive quadrature routines for accurate integration, curvature-based grid refinement to resolve sharp features in eccentricity space, and tools for constructing synthetic surface density profiles that can be compared with observational data. Together, these capabilities make DebrisPy a flexible and general-purpose framework for researchers investigating the physical processes that shape debris discs.
+Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism with several numerical features. These include adaptive quadrature routines for accurate integration, curvature-based grid refinement to resolve sharp features in eccentricity space, and tools for convolution in order to compare theoretical results with resolution-limited observational data. Together, these capabilities make DebrisPy a flexible and general-purpose framework for researchers studying how different dynamical processes shape the surface density of debris disc
 ---
 
 ##### Features
