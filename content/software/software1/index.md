@@ -1,5 +1,5 @@
 ---
-title: "DebrisPy: A Python Package for Computing the Radial Profiles of Surface Density in Debris Discs"
+title: "DebrisPy"
 date: 2025-09-21
 tags: ["software","debris discs","surface density","eccentricity distributions"]
 description: "An open-source Python package for modelling debris-disc surface density profiles using semi-analytic methods."
@@ -41,5 +41,5 @@ Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism
 
 Among many other use cases for DebrisPy is the study of how debris disc surface density changes when undergoing secular dynamical evolution due to a nearby planetary companion. In this case, the evolution of orbital elements are on timescales much longer than the orbital period, hence short-period effects are averaged out, an example of how this affects the eccentricity profile and resulting azimuthally averaged surface density can be seen below. The 2D surface density map on the right is generated using Monte Carlo sampling available within the package.
 
-{{< youtube 1fNakqFlKv0 >}}
+{{< youtube zwJxqMSbW-k >}}
 
