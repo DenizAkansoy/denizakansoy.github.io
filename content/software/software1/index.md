@@ -41,7 +41,5 @@ Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism
 
 Among many other use cases for DebrisPy is the study of how debris disc surface density changes when undergoing secular dynamical evolution due to a nearby planetary companion. In this case, the evolution of orbital elements are on timescales much longer than the orbital period, hence short-period effects are averaged out, an example of how this affects the eccentricity profile and resulting azimuthally averaged surface density can be seen below. The 2D surface density map on the right is generated using Monte Carlo sampling available within the package.
 
-<video width="640" height="360" controls>
-  <source src="/videos/asd_animation.m4v" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+{{< youtube 1fNakqFlKv0 >}}
+
