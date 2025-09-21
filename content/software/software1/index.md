@@ -23,7 +23,8 @@ cover:
 
 By working semi-analytically, DebrisPy offers a more efficient and robust alternative to traditional Monte Carlo approaches, while still including Monte Carlo methods for validation. The modular design of the package allows users to explore a wide range of eccentricity distributions and surface density profiles, making it adaptable to different astrophysical contexts.
 
-Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism with several numerical features. These include adaptive quadrature routines for accurate integration, curvature-based grid refinement to resolve sharp features in eccentricity space, and tools for convolution in order to compare theoretical results with resolution-limited observational data. Together, these capabilities make DebrisPy a flexible and general-purpose framework for researchers studying how different dynamical processes shape the surface density of debris disc
+Beyond reproducing the results of Rafikov (2023), DebrisPy extends the formalism with several numerical features. These include adaptive quadrature routines for accurate integration, curvature-based grid refinement to resolve sharp features in eccentricity space, and tools for convolution in order to compare theoretical results with resolution-limited observational data. Together, these capabilities make DebrisPy a flexible and general-purpose framework for researchers studying how different dynamical processes shape the surface density of debris disc.
+
 ---
 
 ##### Features
