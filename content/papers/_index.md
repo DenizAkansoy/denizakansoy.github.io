@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+title: "Research"
+description: "Research section of Deniz Akansoy's webpage."
 ---
