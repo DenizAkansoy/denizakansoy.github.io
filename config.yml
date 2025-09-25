@@ -64,8 +64,6 @@ params:
     socialIcons:
         - name: Email
           url: mailto:da619@cam.ac.uk
-        - name: Location
-          url: location/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=gotuuAwAAAAJ&hl=en&oi=ao
         - name: GitHub
